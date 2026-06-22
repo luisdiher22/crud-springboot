@@ -1,0 +1,17 @@
+com\example\inventory\dto\ProductRequest.class
+com\example\inventory\service\ProductService.class
+com\example\inventory\exception\ApiError.class
+com\example\inventory\exception\ResourceNotFoundException.class
+com\example\inventory\gui\InventoryGuiApp.class
+com\example\inventory\dto\ProductResponse.class
+com\example\inventory\gui\ApiClient.class
+com\example\inventory\controller\ProductController.class
+com\example\inventory\InventoryApplication.class
+com\example\inventory\repository\ProductRepository.class
+com\example\inventory\gui\ApiClient$1.class
+com\example\inventory\gui\InventoryGuiApp$Call.class
+com\example\inventory\service\ProductServiceImpl.class
+com\example\inventory\model\Product.class
+com\example\inventory\exception\GlobalExceptionHandler.class
+com\example\inventory\gui\InventoryGuiApp$1.class
+com\example\inventory\gui\ProductRow.class
